@@ -4,3 +4,4 @@
 *.nc
 data/
 eurec4a_environment.egg-info/
+.vscode/
